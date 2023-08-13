@@ -1,6 +1,7 @@
 ### Operating Systems I Use...
 MacOS High Sierra <br />
-Windows 10
+Windows 11
+
 <br />
 <br />
 
