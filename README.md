@@ -40,7 +40,7 @@ Windows 11
 
 ### Now Playing 🎧
 
-[![Spotify](https://notankith.vercel.app/api/spotify)](https://open.spotify.com/user/NotAnkith)
+[![Spotify](https://notankith.vercel.app/api/spotify)](https://open.spotify.com/user/84htdhk91cxjqf7v8rwtphm5t)
 <br/>
 ---
 
