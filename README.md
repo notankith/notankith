@@ -40,9 +40,10 @@ Windows 11
 
 ### Now Playing 🎧
 
-<a href="https://spotify-six-psi.vercel.app/now-playing?open">
-    <img src="https://spotify-six-psi.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+[![Spotify](https://https://spotify-git-main-notankith.vercel.app/
+)](https://open.spotify.com/user/84htdhk91cxjqf7v8rwtphm5t)
+
+
 ---
 
 [![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=notankith&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
