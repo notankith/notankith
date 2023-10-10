@@ -27,6 +27,7 @@ Pre University Student
   <b>&#9679</b>
   <br> |
   <br> <br>
+  <h2 align="center">Now Vibing To-</h2>
   <a href="https://open.spotify.com/user/65fzra6amq5cbvz80afbae499">
     <img src="https://spotify-api-notankith.vercel.app/api/spotify" alt="Now Playing">
   </a>
