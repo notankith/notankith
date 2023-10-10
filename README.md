@@ -31,7 +31,14 @@ Pre University Student
     <img src="https://spotify-api-notankith.vercel.app/api/spotify" alt="Now Playing">
   </a>
 </p>
-![alt text](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg)
+</div>
+<h2 align="center">⚒️ Languages-Frameworks-Tools I Use ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aftereffects,python,vscode,github,photoshop,firebase,mongodb,premierepro" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+<br>
   
 <div align="center">
     <b>&#9494
@@ -40,14 +47,7 @@ Pre University Student
         &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
         &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
       &#9498</b>
-</div>
-<h2 align="center">⚒️ Languages-Frameworks-Tools I Use ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=aftereffects,python,vscode,github,photoshopfirebase,mongodb,premierepro" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-<br>
+
 
 <details align="center" id="details">
   <summary>&#128498</summary>
