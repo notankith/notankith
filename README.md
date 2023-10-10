@@ -27,7 +27,7 @@ Pre University Student
   <b>&#9679</b>
   <br> ɴᴏᴡ ᴠɪʙɪɴɢ ᴛᴏ-
   <br> <br>
-  <a href="https://open.spotify.com/user/65fzra6amq5cbvz80afbae499">
+  <a href="https://open.spotify.com/user/84htdhk91cxjqf7v8rwtphm5t">
     <img src="https://spotify-api-notankith.vercel.app/api/spotify" alt="Now Playing">
   </a>
 </p>
