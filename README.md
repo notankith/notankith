@@ -28,7 +28,7 @@ Pre University Student
   <br> |
   <br> <br>
   <a href="https://open.spotify.com/user/65fzra6amq5cbvz80afbae499">
-    <img src="https://spotify-now-playing-gray-omega.vercel.app/api/spotify" alt="Now Playing">
+    <img src="https://spotify-api-notankith.vercel.app/api/spotify" alt="Now Playing">
   </a>
 </p>
 ![alt text](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg)
@@ -41,7 +41,12 @@ Pre University Student
         &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
       &#9498</b>
 </div>
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools I Use ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aftereffects,python,vscode,github,photoshopfirebase,mongodb,premierepro" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 <br>
 
 <details align="center" id="details">
