@@ -36,8 +36,7 @@ Pre University Student
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aftereffects,python,vscode,github,photoshop,firebase,mongodb,premierepro" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+  </div>
 <br>
   
 <div align="center">
