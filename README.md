@@ -53,7 +53,7 @@ Pre University Student
   <div align="center">
     <a>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notankith&theme=transparent&hide_border=true" width="50%" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesariodito&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000" width="40%" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notankith&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000" width="40%" />
     </a>
   </div>
 </details>
