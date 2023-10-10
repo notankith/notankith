@@ -25,7 +25,7 @@ Pre University Student
   <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="100px"/>
   <br>
   <b>&#9679</b>
-  <br> Vining To-
+  <br> ɴᴏᴡ ᴠɪʙɪɴɢ ᴛᴏ-
   <br> <br>
   <a href="https://open.spotify.com/user/65fzra6amq5cbvz80afbae499">
     <img src="https://spotify-api-notankith.vercel.app/api/spotify" alt="Now Playing">
