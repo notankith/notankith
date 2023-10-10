@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **None.**
+- 👯 I’m looking to collaborate on **None.**                                            [![Spotify](https://spotify-api-notankith.vercel.app/api/spotify)](https://open.spotify.com/user/84htdhk91cxjqf7v8rwtphm5t)                       
 
 - 🤝 I’m looking for help with [AutoFilterBot (telegram)](github.com/notankith/PiroAutoFilterbot)
 
