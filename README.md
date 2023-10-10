@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notankith&show_icons=true&locale=en&layout=compact" alt="notankith" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notankith&show_icons=true&locale=en" alt="notankith" /></p>
+<p>&nbsp;<img align="center" src="[![Spotify](https://spotify-api-notankith.vercel.app/api/spotify)](https://open.spotify.com/user/84htdhk91cxjqf7v8rwtphm5t)"notankith" /></p>
