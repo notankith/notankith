@@ -25,7 +25,7 @@ Pre University Student
   <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="100px"/>
   <br>
   <b>&#9679</b>
-  <br> the last thing i listened to was-
+  <br> ​🇹​​🇭​​🇪​ ​🇱​​🇦​​🇸​​🇹​ ​🇹​​🇭​​🇮​​🇳​​🇬​ ​🇮​ ​🇱​​🇮​​🇸​​🇹​​🇪​​🇳​​🇪​​🇩​ ​🇹​​🇴​ ​🇼​​🇦​​🇸​-
   <br> <br>
   <a href="https://open.spotify.com/user/84htdhk91cxjqf7v8rwtphm5t">
     <img src="https://spotify-api-notankith.vercel.app/api/spotify" alt="Now Playing">
