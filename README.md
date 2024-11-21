@@ -28,7 +28,7 @@ Pre University Student
   <br> ​🇹​​🇭​​🇪​ ​🇱​​🇦​​🇸​​🇹​ ​🇹​​🇭​​🇮​​🇳​​🇬​ ​🇮​ ​🇱​​🇮​​🇸​​🇹​​🇪​​🇳​​🇪​​🇩​ ​🇹​​🇴​ ​🇼​​🇦​​🇸​-
   <br> <br>
   <a href="https://open.spotify.com/user/84htdhk91cxjqf7v8rwtphm5t">
-    <img src="https://spotify-api-notankith.vercel.app/api/spotify" alt="Now Playing">
+    <img src="https://spotify-test1.vercel.app/api/spotify" alt="Now Playing">
   </a>
 </p>
 </div>
