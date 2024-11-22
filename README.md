@@ -2,7 +2,7 @@
   <img src="https://static.tumblr.com/9c47e0e34edbf9a61ed705af929b707c/bouqgec/AbBolqtip/tumblr_static__2048_v2.gif" height="350px"/>
 </p>
 
-<h4 align="center" id="begin"><samp>Hola1</h4>
+<h4 align="center" id="begin"><samp>Hola!</h4>
 
 
   <div align="center">
