@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106224845001330728/neural.gif" height="350px"/>
+  <img src="https://static.tumblr.com/9c47e0e34edbf9a61ed705af929b707c/bouqgec/AbBolqtip/tumblr_static__2048_v2.gif" height="350px"/>
 </p>
 
-<h4 align="center" id="begin"><samp>Wadupp?.</h4>
-<!-- <h4 align="center" id="begin"><samp><b><a href="">sesar</a></h4> -->
+<h4 align="center" id="begin"><samp>Hola1</h4>
+
 
   <div align="center">
       <b>&#9487
@@ -25,7 +25,7 @@ Pre University Student
   <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="100px"/>
   <br>
   <b>&#9679</b>
-  <br> Spotify Status
+  <br> <samp> <i>Spotify Status</i> </samp>
   <br> <br>
   <a href="https://open.spotify.com/user/84htdhk91cxjqf7v8rwtphm5t">
     <img src="https://spotify-test1.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Now Playing">
