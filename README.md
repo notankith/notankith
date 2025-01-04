@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.tumblr.com/9c47e0e34edbf9a61ed705af929b707c/bouqgec/AbBolqtip/tumblr_static__2048_v2.gif" height="350px"/>
+  <img src="https://static.tumblr.com" height="350px"/>
 </p>
 
 <h4 align="center" id="begin"><samp>Hola!</h4>
