@@ -17,7 +17,6 @@
 <p align="center"><samp>
 ‿︵‿︵‿︵ Tech Enthusiast,On The Grind To Earn! ‿︵‿🛥︵‿
 <br>
-Pre University Student
 </samp></p>
 
 <p align="center">
