@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://static.tumblr.com" height="350px"/>
 </p>
 
 <h4 align="center" id="begin"><samp>Hola!</h4>
