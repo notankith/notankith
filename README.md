@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools I Use ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aftereffects,python,vscode,github,photoshop,firebase,mongodb,premierepro,aws,blender,cpp,docker,gcp,js,linkedin,nodejs,notion,npm,ps,pr,react," />
+    <img src="https://skillicons.dev/icons?i=aftereffects,python,vscode,github,photoshop,firebase,mongodb,aws,blender,cpp,docker,gcp,js,linkedin,nodejs,notion,npm,ps,pr,react," />
   </div>
 <br>
   
